@@ -14,6 +14,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
+pip install groq python-dotenv
 from dotenv import load_dotenv
 
 # # This searches for the .env file and loads the variables
